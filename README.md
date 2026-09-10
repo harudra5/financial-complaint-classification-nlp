@@ -136,7 +136,7 @@ The Streamlit application provides:
 
 ## Streamlit App
 
-[Live Demo]: https://financial-complaint-classification-nlp-harudra.streamlit.app/ 
+URL: https://financial-complaint-classification-nlp-harudra.streamlit.app/ 
 
 * Complaint text input
 * Predicted complaint category
