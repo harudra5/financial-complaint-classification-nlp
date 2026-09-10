@@ -134,6 +134,10 @@ Some minority categories were more challenging because of limited samples and se
 
 The Streamlit application provides:
 
+## Streamlit App
+
+[Live Demo]: https://financial-complaint-classification-nlp-harudra.streamlit.app/ 
+
 * Complaint text input
 * Predicted complaint category
 * **Top-3 predicted categories**
