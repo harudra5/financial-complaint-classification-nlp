@@ -140,6 +140,10 @@ The Streamlit application provides:
 * Confidence score for each prediction
 
 Example:
+
+<img width="462" height="322" alt="image" src="https://github.com/user-attachments/assets/af3ddce7-9d0e-419f-a0b0-be3aca3ca455" />
+
+
 Top 3 Predictions
 
 1. Credit card — 85.29%
