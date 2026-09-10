@@ -147,9 +147,9 @@ Example:
 
 Top 3 Predictions
 
-1. Credit card — 85.29%
-2. Debt or credit management — 5.73%
-3. Credit reporting or other personal consumer reports — 4.47%
+1. Student loan — 92.61%
+2. Credit reporting or other personal consumer reports — 4.07%
+3. Debt or credit management — 1.55%
 
 This provides more information than simply returning a single predicted class and helps users understand the model's uncertainty.
 
