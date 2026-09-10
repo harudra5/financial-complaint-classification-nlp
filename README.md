@@ -141,7 +141,8 @@ The Streamlit application provides:
 
 Example:
 
-<img width="462" height="322" alt="image" src="https://github.com/user-attachments/assets/af3ddce7-9d0e-419f-a0b0-be3aca3ca455" />
+<img width="458" height="319" alt="image" src="https://github.com/user-attachments/assets/76b8eae1-600c-4012-90b5-b604ba6e871f" />
+
 
 
 Top 3 Predictions
